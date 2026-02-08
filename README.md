@@ -15,6 +15,8 @@
 
 ## Introduction
 
+This branch is used to create a spec.md file for the villains microservice, and then ask an AI coder to re-implement the microservice.
+
 This is a sample application demonstrating Quarkus features and best practices. The application allows superheroes to fight against supervillains. The application consists of several microservices, communicating either synchronously via REST or asynchronously using Kafka. All the data used by the applications are [on the `characterdata` branch](https://github.com/quarkusio/quarkus-super-heroes/tree/characterdata) of this repository.
 
 This is **NOT** the workshop with the step-by-step instructions. If you are looking for the Quarkus Super Heroes workshop, you can find it at https://quarkus.io/quarkus-workshops/super-heroes/.
